@@ -1,0 +1,37 @@
+h1{
+
+font-size:140px;
+text-align: center;
+border:solid;
+border-style:groove;
+border-width: 15px;
+text-shadow:2px 2px 10px black;
+
+ 
+}
+
+body{
+    background:white;
+    background-image: url("pexels-photo-531880.jpg");
+}
+
+b{
+   font-size:90px;
+   text-shadow:0px 0px 10px black;
+  
+}
+
+p{
+  
+  font-size: 60px;
+  text-align: center;
+}
+
+img src{
+  border-color: white;
+}
+
+
+
+    
+
